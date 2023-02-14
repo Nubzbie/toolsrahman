@@ -7,8 +7,8 @@
 <br>
 ``pip install requests``
 <br>
-
-
+``pip install tqdm``
+<br>
 ``git clone https://github.com/Nubzbie/toolsrahman``
 <br>
 ``cd toolsrahman ``
