@@ -1,7 +1,7 @@
 # toolsrahman
 ``install : ``
 <br>
-``pip install python``
+``pkg install python``
 <br>
 ``pip install requests``
 <br>
