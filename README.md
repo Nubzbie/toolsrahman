@@ -3,6 +3,8 @@
 <br>
 ``pkg install python``
 <br>
+``pkg install git``
+<br>
 ``pip install requests``
 <br>
 ``pip install random ``
